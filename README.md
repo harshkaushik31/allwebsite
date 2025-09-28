@@ -6,16 +6,14 @@ A clean and simple landing page to showcase a collection of my web development p
 
 ## 🚀 Live Demo
 
-[**View Live Site**](https://harshkaushik31.github.io/your-repository-name/)
+[**View Live Site**](https://harshkaushik31.github.io/all-website/)
 
-*(Note: Please replace `your-repository-name` with the actual name of your repository for the link to work correctly.)*
 
 ## 📸 Screenshot
 
 A preview of the main landing page:
 
 ![Project Portfolio Screenshot](./images/mywebsite.png) 
-*(You might want to replace this with a screenshot of the entire portfolio page itself)*
 
 ## ✨ Features
 
@@ -68,3 +66,4 @@ That's it! You should see the website running locally.
 
 -   **Harsh Kaushik**
 -   GitHub: [@harshkaushik31](https://github.com/harshkaushik31)
+
